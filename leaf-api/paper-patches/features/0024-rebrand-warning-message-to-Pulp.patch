@@ -1,0 +1,19 @@
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From: MohammadReza <you@example.com>
+Date: Sat, 12 Sep 2026 21:37:56 +0330
+Subject: [PATCH] rebrand warning message to Pulp
+
+
+diff --git a/src/main/java/io/papermc/paper/plugin/loader/library/impl/MavenLibraryResolver.java b/src/main/java/io/papermc/paper/plugin/loader/library/impl/MavenLibraryResolver.java
+index 39a17aa75a8934cf7a9aebf9e3650b1d742564e9..7830c3663a1efec98419b483a42c7fa175c19dae 100644
+--- a/src/main/java/io/papermc/paper/plugin/loader/library/impl/MavenLibraryResolver.java
++++ b/src/main/java/io/papermc/paper/plugin/loader/library/impl/MavenLibraryResolver.java
+@@ -142,7 +142,7 @@ public class MavenLibraryResolver implements ClassPathLibrary {
+                 }
+                 // Leaf end - Configurable LibraryLoader maven repos
+             LOGGER.warn(
+-                "Use of Maven Central as a CDN is against the Maven Central Terms of Service. Use MavenLibraryResolver.MAVEN_CENTRAL_DEFAULT_MIRROR instead. DO NOT report this to Paper or Leaf! Please contact plugin's support to adapt this change.", // Leaf - Better warning message for discouraging Maven Central as CDN
++                "Use of Maven Central as a CDN is against the Maven Central Terms of Service. Use MavenLibraryResolver.MAVEN_CENTRAL_DEFAULT_MIRROR instead. DO NOT report this to Paper or Pulp! Please contact plugin's support to adapt this change.", // Leaf - Better warning message for discouraging Maven Central as CDN
+                 new RuntimeException("Plugin used Maven Central for library resolution (%s)".formatted(remoteRepository.toString()))
+             );
+                 // Leaf start - Configurable LibraryLoader maven repos
