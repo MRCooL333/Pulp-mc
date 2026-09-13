@@ -1,8 +1,8 @@
 <img src="public/image/pulp_banner.png" alt="Pulp">
 <div align="center">
 
-[![Github Actions Build](https://img.shields.io/github/actions/workflow/status/MRCooL33/Pulp-mc/build.yml?&style=for-the-badge&colorA=19201a&colorB=298046)](https://github.com/MRCooL33/Pulp-mc/actions)⠀
-[![Latest Release](https://img.shields.io/github/v/release/MRCooL33/Pulp-mc?style=for-the-badge&colorA=19201a&colorB=298046)](https://github.com/MRCooL33/Pulp-mc/releases)
+[![Github Actions Build](https://img.shields.io/github/actions/workflow/status/MRCooL333/Pulp-mc/build.yml?&style=for-the-badge&colorA=19201a&colorB=298046)](https://github.com/MRCooL333/Pulp-mc/actions)⠀
+[![Latest Release](https://img.shields.io/github/v/release/MRCooL333/Pulp-mc?style=for-the-badge&colorA=19201a&colorB=298046)](https://github.com/MRCooL333/Pulp-mc/releases)
 
 **Pulp** is a [Leaf](https://github.com/Winds-Studio/Leaf) fork designed to be customizable and high-performance.
 </div>
@@ -10,7 +10,7 @@
 > [!WARNING]
 > Pulp is a performance-oriented fork. Make sure to take backups **before** switching to it. Everyone is welcome to contribute optimizations or report issues to help us improve.
 
-## 🍃 Features
+## 🗞️ Features
 - **Based on [Leaf](https://github.com/Winds-Studio/Leaf)** (itself a [Paper](https://papermc.io/) fork) for generic performance and flexible API
 - **Async** pathfinding, mob spawning and entity tracker
 - **Various optimizations** blending from [other forks](#-credits) and our own
@@ -25,7 +25,7 @@
 - And more...
 
 ## 📥 Download
-Get the latest build from [GitHub Releases](https://github.com/MRCooL33/Pulp-mc/releases).
+Get the latest build from [GitHub Releases](https://github.com/MRCooL333/Pulp-mc/releases).
 
 ## 📦 Building
 Building a Paperclip JAR for distribution:
