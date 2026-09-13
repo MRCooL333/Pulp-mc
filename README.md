@@ -10,7 +10,7 @@
 > [!WARNING]
 > Pulp is a performance-oriented fork. Make sure to take backups **before** switching to it. Everyone is welcome to contribute optimizations or report issues to help us improve.
 
-## 🍃 Features
+## 🗞️ Features
 - **Based on [Leaf](https://github.com/Winds-Studio/Leaf)** (itself a [Paper](https://papermc.io/) fork) for generic performance and flexible API
 - **Async** pathfinding, mob spawning and entity tracker
 - **Various optimizations** blending from [other forks](#-credits) and our own
