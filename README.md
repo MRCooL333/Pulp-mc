@@ -25,7 +25,7 @@
 - And more...
 
 ## 📥 Download
-Get the latest build from [GitHub Releases](https://github.com/MRCooL33/Pulp-mc/releases).
+Get the latest build from [GitHub Releases](https://github.com/MRCooL333/Pulp-mc/releases).
 
 ## 📦 Building
 Building a Paperclip JAR for distribution:
