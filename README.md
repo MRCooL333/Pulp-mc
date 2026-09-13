@@ -1,8 +1,8 @@
 <img src="public/image/pulp_banner.png" alt="Pulp">
 <div align="center">
 
-[![Github Actions Build](https://img.shields.io/github/actions/workflow/status/MRCooL33/Pulp-mc/build.yml?&style=for-the-badge&colorA=19201a&colorB=298046)](https://github.com/MRCooL33/Pulp-mc/actions)⠀
-[![Latest Release](https://img.shields.io/github/v/release/MRCooL33/Pulp-mc?style=for-the-badge&colorA=19201a&colorB=298046)](https://github.com/MRCooL33/Pulp-mc/releases)
+[![Github Actions Build](https://img.shields.io/github/actions/workflow/status/MRCooL333/Pulp-mc/build.yml?&style=for-the-badge&colorA=19201a&colorB=298046)](https://github.com/MRCooL333/Pulp-mc/actions)⠀
+[![Latest Release](https://img.shields.io/github/v/release/MRCooL333/Pulp-mc?style=for-the-badge&colorA=19201a&colorB=298046)](https://github.com/MRCooL333/Pulp-mc/releases)
 
 **Pulp** is a [Leaf](https://github.com/Winds-Studio/Leaf) fork designed to be customizable and high-performance.
 </div>
