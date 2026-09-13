@@ -34,7 +34,7 @@ Building a Paperclip JAR for distribution:
 ```
 
 ## ⚖️ License
-Pulp is licensed under various open source licenses inherited from its upstream projects (Leaf, Paper, Spigot, CraftBukkit, and others). See [LICENSE.md](LICENSE.md) for full details.
+Pulp is licensed under various open source licenses inherited from its upstream projects (Leaf, Paper, CraftBukkit, Spigot, and others). See [LICENSE.md](LICENSE.md) for full details.
 
 ## 📜 Credits
 Pulp is a fork of [Leaf](https://github.com/Winds-Studio/Leaf), and includes patches originally taken from the projects below.<br>
